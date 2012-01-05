@@ -1,0 +1,70 @@
+10
+
+dir
+0
+http://sifyscm01.thoughtworks.com/twist2/build-deps/com.thoughtworks.twist.ant
+http://sifyscm01.thoughtworks.com/twist2
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6fa334a2-4132-416c-9f86-5f05994438d2
+
+.classpath
+file
+
+
+
+add
+
+META-INF
+dir
+
+
+
+add
+
+.project
+file
+
+
+
+add
+
+src
+dir
+
+
+
+add
+
+build.properties
+file
+
+
+
+add
+
+.settings
+dir
+
+
+
+add
+

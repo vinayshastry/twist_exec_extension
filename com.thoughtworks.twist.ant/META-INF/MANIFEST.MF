@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Twist Ant Extensions
+Bundle-SymbolicName: com.thoughtworks.twist.ant
+Bundle-Version: 1.0.0
+Bundle-Vendor: THOUGHTWORKS
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.thoughtworks.twist.ant
